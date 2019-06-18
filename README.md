@@ -9,9 +9,12 @@ https://www.google.com.br/url?sa=i&source=images&cd=&ved=2ahUKEwiUqoPj0vPiAhXQGL
 ![Atom](quadro-decorativo-atomo-rm007-gases-nobres.jpg).
 ![Sete Chaves](sete_chaves.jpg).
 
+.................................
 Inclusão na Master.
 nova linha
 nova linha anderson
 terceira linha
+Remover linhas acima
+.................................
 
 ![IFES](IFES_teste.jpg)
