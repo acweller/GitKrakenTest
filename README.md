@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # GitKrakenTest
 Teste de utilização do GitKraken
 
@@ -17,8 +15,4 @@ nova linha anderson
 terceira linha
 
 ![IFES](IFES_teste.jpg)
-=======
 ![Goog](2019-womens-world-cup-day-12-5623595439489024-s.png)
-=======
-https://www.google.com.br/logos/doodles/2019/2019-womens-world-cup-day-12-5623595439489024-s.png
->>>>>>> 47972d70e1ffa3ed5faf3381fb1e026e71820b78
